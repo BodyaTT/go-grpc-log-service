@@ -1,0 +1,1 @@
+protoc --go_out=../log-service/pkg --go-grpc_out=../log-service/pkg proto/audit.proto
